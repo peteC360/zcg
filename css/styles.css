@@ -479,6 +479,10 @@ mark,
   height: auto;
 }
 
+.img-fluid .portfolio-box {
+  width: 100%
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
