@@ -479,7 +479,7 @@ mark,
   height: auto;
 }
 
-.img-fluid .portfolio-box {
+.img-fluid.portfolio-box {
   width: 100%
 }
 
